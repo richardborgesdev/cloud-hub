@@ -16,3 +16,6 @@
 1. $100 free credits
 
 ### Creating an AWS Account
+1. Free plan to the course
+1. Needs credit card in free plan
+1. Needs activation
