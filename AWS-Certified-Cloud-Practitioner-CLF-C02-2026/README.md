@@ -28,3 +28,7 @@
 1. IT terminology: network, router, switch
 1. Traditionally: local servers, data centers
     1. space, power supply, cooling, maintenance, disaters
+1. Advantages: on-demand-delivery, pay-as-you-go pricing, right type and size
+1. Deployments: private cloud, public cloud, hybrid cloud
+1. 5 characteristics: on-demand self service, broad network access, multi-tenancy and resource pooling, rapid elasticity and scalabity, measured service
+1. 6 advantages: CAPEX, OPEX, reduced TCO and OPEX
