@@ -21,7 +21,7 @@
 1. Needs credit card in free plan
 1. Needs activation
 
-## What is Cloud Computing
+### What is Cloud Computing
 1. how websites work: client > network > server
     1. IPs
 1. what is a server composed of? CPU, RAM, storage data, data base, network (DNS, routers, switch)
@@ -31,4 +31,9 @@
 1. Advantages: on-demand-delivery, pay-as-you-go pricing, right type and size
 1. Deployments: private cloud, public cloud, hybrid cloud
 1. 5 characteristics: on-demand self service, broad network access, multi-tenancy and resource pooling, rapid elasticity and scalabity, measured service
-1. 6 advantages: CAPEX, OPEX, reduced TCO and OPEX
+1. 6 advantages: CAPEX, OPEX, reduced TCO and OPEX, benefits from massive economies, stop guessing capacity, increase speed and agility, stop spending money running and maintaining data centers, go global in minutes
+1. Problems Solved by the cloud: flexibility, cost-effectiveness, scalability, elasticity, high-availabitliy, agility
+
+### The diferent types of cloud computing
+1. IaaS (EC2), PaaS (Elastic Beanstalk), SaaS (Rekognition)
+1. Pricing fundamentals: compute, storage, data transfer (OUT)
