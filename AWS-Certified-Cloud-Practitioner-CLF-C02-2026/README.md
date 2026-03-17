@@ -37,3 +37,16 @@
 ### The diferent types of cloud computing
 1. IaaS (EC2), PaaS (Elastic Beanstalk), SaaS (Rekognition)
 1. Pricing fundamentals: compute, storage, data transfer (OUT)
+
+### AWS Cloud History
+1. 2002 internally, 2003 infrastructure, 2004 publicly SQS, 2006 re-launched (SQS, S3, EC2), 2007 europe
+1. cloud number facts: 2023 90 bilion ARR, 31% of market in 2024, 1 million active users
+1. use cases: mac donalds, 21st century fox, activision, netflix
+
+### AWS Global Infrastructure
+1. regions, availability zones, data centers, edge locations
+1. regions: all around the world, us-east-I, eu-west-3, is a cluster of data centers, services are region-scoped,
+1. how to choose an AWS region: compliance, proximity, available services, pricing
+1. availability zones: min is 3, max is 6, ap-southeast-2a
+1. edge locations: 400 points of presence
+1. console: global services vs region-scoped
