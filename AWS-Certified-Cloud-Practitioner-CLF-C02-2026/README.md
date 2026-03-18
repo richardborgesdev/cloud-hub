@@ -50,3 +50,19 @@
 1. availability zones: min is 3, max is 6, ap-southeast-2a
 1. edge locations: 400 points of presence
 1. console: global services vs region-scoped
+
+### Tour of the console & services UI Update
+1. console home > region
+1. services
+1. compute
+1. search bar
+1. features, blogs, documentation
+1. route 53 (global)
+1. EC2 (region)
+1. https://aws.amazon.com/about-aws/global-infrastructure/
+
+### Shared Responsability Model diagram
+1. https://aws.amazon.com/compliance/shared-responsibility-model/
+
+### AWS Acceptable Use Policy
+1. https://aws.amazon.com/aup/
