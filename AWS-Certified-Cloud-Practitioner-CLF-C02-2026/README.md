@@ -66,3 +66,13 @@
 
 ### AWS Acceptable Use Policy
 1. https://aws.amazon.com/aup/
+
+## IAM - Identity and Access Management
+
+### Introduction
+1. global service
+1. root account, users, groups
+1. users can be in a multiple groups or in anyone
+1. permissions
+1. account alias
+1. sign in as IAM user
