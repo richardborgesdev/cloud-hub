@@ -76,3 +76,5 @@
 1. permissions
 1. account alias
 1. sign in as IAM user
+1. multi session support > add session
+1.
