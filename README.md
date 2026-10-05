@@ -363,3 +363,6 @@ Frontend cloud architecture leverages cloud services to build, deploy, and scale
 Cloud services like AWS provide a comprehensive ecosystem for building scalable, performant, and secure frontend applications. By leveraging services like S3, CloudFront, Lambda, API Gateway, and Cognito, developers can focus on building great user experiences while the cloud handles infrastructure, scaling, and global distribution.
 
 The key to success is understanding which services to use for specific use cases, implementing proper caching strategies, maintaining security best practices, and continuously monitoring and optimizing for cost and performance.
+
+## YouTube
+1. https://www.youtube.com/@marialazaradev
